@@ -8,8 +8,7 @@
 | 臺南一中 | 袁律恆/密碼(Crypto) | 蔡語宸/網頁安全(web) | 線上Q&A |  
 
 ## 課程內容
-```
+
 - 學員可以在[Crypto](https://github.com/MyFirstSecurity2020/SecuritySummerCamp2024A/tree/main/Crypto)或[WebSecurity](https://github.com/MyFirstSecurity2020/SecuritySummerCamp2024A/tree/main/WebSecurity)中找到報名場次的講師，預先預習課程內容。
 
 
-```
