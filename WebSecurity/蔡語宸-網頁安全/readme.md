@@ -6,7 +6,7 @@
  
 ## 解題平台
 
-- ### [http://ctf-isip.tyc4d.tw/](http://ctf-isip.tyc4d.tw/)
+- 後續放上解題網址
 
 ## 課程主題 語宸 
 - ### CTF基礎概論
